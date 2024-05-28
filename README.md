@@ -12,7 +12,7 @@ Este repositório foi criado como parte do projeto, com o objetivo de consolidar
 
 ## Referências
 
-Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
+Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste projeto, consulte a documentação oficial das seguintes bibliotecas:
 
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Seaborn](https://seaborn.pydata.org/)
